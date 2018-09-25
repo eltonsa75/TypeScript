@@ -1,0 +1,9 @@
+Compilador do Typescript utilizando o NodeJs
+tsc -init  é utilizado para criar o arquivo tsconfig.json
+tsc -W para compilar todas as atualizações na pasta de destino
+
+
+
+Variavel Any é utilizada quando você não tem a definição do campo
+
+
